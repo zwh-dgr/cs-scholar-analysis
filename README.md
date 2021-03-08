@@ -1,7 +1,9 @@
 # cs-scholar-analysis
 大创项目-杰出学者评价
 
-## data-json
+## data
+
+### papers
 
 下有四个文件夹：
 
@@ -36,3 +38,16 @@
 | affiliation |    作者单位     |
 |    orcid    | 作者ORCID标识ID |
 
+### security-PC
+
+安全领域的Program Chairs数据，包含两个xlsx文件：
+
+|    **文件名**     |            **数据**            |
+| :---------------: | :----------------------------: |
+| security-PCs.xlsx | 从各届会议官网中采集到的PC名单 |
+| complete-PC.xlsx  | 补充PC的DBLP页链接字段后的数据 |
+
+## scripts
+
+- crawler.py与crawler-new.py：爬取DBLP会议论文数据的脚本（输出：`./data/papers`）
+- crawler-site.py：根据PC姓名，实现自动搜索DBLP作者页并将粗结果写入文件的脚本（输出：`./data/security-PC/complete-PC.xlsx`）

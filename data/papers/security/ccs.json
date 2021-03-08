@@ -1,24 +1,4 @@
-{
-  "title": "Machine Learning and Security: The Good, The Bad, and The Ugly.",
-  "datePublished": "2020",
-  "pagination": "1-2",
-  "genre": "computer science",
-  "authorsInfo": [
-    {
-      "name": "Wenke Lee",
-      "title": "Wenke Lee",
-      "site": "https://dblp.uni-trier.de/pid/29/5976.html",
-      "page": "http://wenke.gtisc.gatech.edu/",
-      "affiliation": "Georgia Institute of Technology, Atlanta GA, USA",
-      "orcid": ""
-    }
-  ],
-  "session": "Keynote Talk I",
-  "proceedingsTitle": "CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.",
-  "publisher": "ACM",
-  "publYear": "2020",
-  "isbn": "978-1-4503-7089-9"
-}
+{"title": "Machine Learning and Security: The Good, The Bad, and The Ugly.", "datePublished": "2020", "pagination": "1-2", "genre": "computer science", "authorsInfo": [{"name": "Wenke Lee", "title": "Wenke Lee", "site": "https://dblp.uni-trier.de/pid/29/5976.html", "page": "http://wenke.gtisc.gatech.edu/", "affiliation": "Georgia Institute of Technology, Atlanta GA, USA", "orcid": ""}], "session": "Keynote Talk I", "proceedingsTitle": "CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.", "publisher": "ACM", "publYear": "2020", "isbn": "978-1-4503-7089-9"}
 {"title": "Bypassing Tor Exit Blocking with Exit Bridge Onion Services.", "datePublished": "2020", "pagination": "3-16", "genre": "computer science", "authorsInfo": [{"name": "Zhao Zhang", "title": "Zhao Zhang", "site": "https://dblp.uni-trier.de/pid/87/6853.html", "page": "", "affiliation": "", "orcid": ""}, {"name": "Wenchao Zhou", "title": "Wenchao Zhou", "site": "https://dblp.uni-trier.de/pid/72/1077.html", "page": "", "affiliation": "", "orcid": "0000-0002-7756-1418"}, {"name": "Micah Sherr", "title": "Micah Sherr", "site": "https://dblp.uni-trier.de/pid/57/3752.html", "page": "", "affiliation": "", "orcid": ""}], "session": "Session 1A:\nAnonymous Routing and Censorship", "proceedingsTitle": "CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.", "publisher": "ACM", "publYear": "2020", "isbn": "978-1-4503-7089-9"}
 {"title": "CLAPS: Client-Location-Aware Path Selection in Tor.", "datePublished": "2020", "pagination": "17-34", "genre": "computer science", "authorsInfo": [{"name": "Florentin Rochet", "title": "Florentin Rochet", "site": "https://dblp.uni-trier.de/pid/186/8215.html", "page": "", "affiliation": "", "orcid": ""}, {"name": "Ryan Wails", "title": "Ryan Wails", "site": "https://dblp.uni-trier.de/pid/213/7598.html", "page": "", "affiliation": "", "orcid": "0000-0003-3641-8217"}, {"name": "Aaron Johnson", "title": "Aaron Johnson", "site": "https://dblp.uni-trier.de/pid/24/3059.html", "page": "", "affiliation": "", "orcid": ""}, {"name": "Prateek Mittal", "title": "Prateek Mittal", "site": "https://dblp.uni-trier.de/pid/39/6266.html", "page": "", "affiliation": "", "orcid": ""}, {"name": "Olivier Pereira", "title": "Olivier Pereira", "site": "https://dblp.uni-trier.de/pid/78/1061.html", "page": "", "affiliation": "", "orcid": ""}], "session": "Session 1A:\nAnonymous Routing and Censorship", "proceedingsTitle": "CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.", "publisher": "ACM", "publYear": "2020", "isbn": "978-1-4503-7089-9"}
 {"title": "Poking a Hole in the Wall: Efficient Censorship-Resistant Internet Communications by Parasitizing on WebRTC.", "datePublished": "2020", "pagination": "35-48", "genre": "computer science", "authorsInfo": [{"name": "Diogo Barradas", "title": "Diogo Barradas", "site": "https://dblp.uni-trier.de/pid/204/5176.html", "page": "", "affiliation": "", "orcid": ""}, {"name": "Nuno Santos", "title": "Nuno Santos 0001", "site": "https://dblp.uni-trier.de/pid/07/967-1.html", "page": "http://www.gsd.inesc-id.pt/~nsantos/", "affiliation": ["University of Lisbon, IST, Portugal", "INESC-ID - Distributed Systems Group, Lisbon, Portugal", "Max Planck Institute for Software Systems, Saarbrücken, Germany"], "orcid": ""}, {"name": "Luís E. T. Rodrigues", "title": "Luís E. T. Rodrigues", "site": "https://dblp.uni-trier.de/pid/r/LRodrigues.html", "page": "http://www.gsd.inesc-id.pt/~ler/", "affiliation": "University of Lisbon, Department of Computer Science", "orcid": ""}, {"name": "Vítor Nunes", "title": "Vítor Nunes", "site": "https://dblp.uni-trier.de/pid/277/8055.html", "page": "", "affiliation": "", "orcid": ""}], "session": "Session 1A:\nAnonymous Routing and Censorship", "proceedingsTitle": "CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.", "publisher": "ACM", "publYear": "2020", "isbn": "978-1-4503-7089-9"}
